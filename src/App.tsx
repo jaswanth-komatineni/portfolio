@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, ExternalLink, ChevronRight, Moon, Sun } from 'lucide-react';
 import Hero from './components/Hero';
 import About from './components/About';
-import Education from './components/education';
+import Education from './components/Education';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
