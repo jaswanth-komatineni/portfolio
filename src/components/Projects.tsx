@@ -12,6 +12,14 @@ const Projects = () => {
       liveLink: "#"
     },
     {
+      title: "eCommerce Web Application (Full Stack)",
+      description: "Designed and developed a full stack eCommerce platform with user authentication, product browsing, dynamic cart management, and a secure admin dashboard for inventory control. Implemented complete CRUD operations, session handling, and real-time cart quantity updates with seamless frontend-backend integration using PHP and MySQL. Delivered a responsive and mobile-friendly UI using Tailwind CSS, optimized for user experience.",
+      technologies: ["PHP", "MySQL", "HTML", "CSS", "Tailwind"],
+      image: "https://media.istockphoto.com/id/1428709516/photo/shopping-online-woman-hand-online-shopping-on-laptop-computer-with-virtual-graphic-icon.jpg?s=1024x1024&w=is&k=20&c=N5Fw7BZfKcYJMH9camA7rQ3q--7Ev7pKlQYEB_gPfo8=",
+      githubLink: "https://github.com/jaswanth-komatineni/eCommerce-website",
+      liveLink: "http://jaswanth.infinityfreeapp.com"
+    },
+    {
       title: "Online Restaurant Billing System",
       description: "Built a bill calculation and receipt generation system with PDF export, enabling users to download invoices. Integrated a mini calculator for quick total verification, improving user experience with instant feedback.",
       technologies: ["Python", "Tkinter", "Visual Studio Code", "PDF Generation", "Idle"],
@@ -19,6 +27,7 @@ const Projects = () => {
       githubLink: "#",
       liveLink: "#"
     },
+    
     {
       title: "House Price Prediction",
       description: "Developed a regression model using Scikit-Learn to predict house prices based on key features. Built and deployed an interactive Streamlit app on a local machine for real-time predictions and analysis.",
