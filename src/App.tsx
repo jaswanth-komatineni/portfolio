@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, ExternalLink, ChevronRight, Moon, Sun } from 'lucide-react';
 import Hero from './components/Hero';
 import About from './components/About';
+import Education from './components/education';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
@@ -60,6 +61,7 @@ function App() {
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center space-x-8">
               <button onClick={() => scrollToSection('about')} className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">About</button>
+              <button onClick={() => scrollToSection('education')} className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Education</button>
               <button onClick={() => scrollToSection('experience')} className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Experience</button>
               <button onClick={() => scrollToSection('projects')} className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Projects</button>
               <button onClick={() => scrollToSection('skills')} className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Skills</button>
@@ -98,6 +100,7 @@ function App() {
           <div className="md:hidden bg-white dark:bg-gray-800 shadow-lg transition-colors duration-300">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
               <button onClick={() => scrollToSection('about')} className="block px-3 py-2 rounded-md text-base font-medium text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-gray-50 dark:hover:bg-gray-700 w-full text-left transition-colors">About</button>
+              <button onClick={() => scrollToSection('education')} className="block px-3 py-2 rounded-md text-base font-medium text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-gray-50 dark:hover:bg-gray-700 w-full text-left transition-colors">Edcation</button>
               <button onClick={() => scrollToSection('experience')} className="block px-3 py-2 rounded-md text-base font-medium text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-gray-50 dark:hover:bg-gray-700 w-full text-left transition-colors">Experience</button>
               <button onClick={() => scrollToSection('projects')} className="block px-3 py-2 rounded-md text-base font-medium text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-gray-50 dark:hover:bg-gray-700 w-full text-left transition-colors">Projects</button>
               <button onClick={() => scrollToSection('skills')} className="block px-3 py-2 rounded-md text-base font-medium text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 hover:bg-gray-50 dark:hover:bg-gray-700 w-full text-left transition-colors">Skills</button>
@@ -111,6 +114,7 @@ function App() {
       <main>
         <Hero darkMode={darkMode} />
         <About />
+        <Education />
         <Experience />
         <Projects />
         <Skills />
