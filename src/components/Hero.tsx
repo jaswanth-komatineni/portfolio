@@ -49,7 +49,7 @@ const Hero = ({ darkMode }: HeroProps) => {
             <Mail size={24} />
           </a>
           <a 
-            href="https://drive.google.com/file/d/1tzhqjbZQ3I-YlljRRkfU8KNc-c-oDakM/view?usp=sharing" 
+            href="https://www.overleaf.com/read/vqqjrqdzfmjr#ede9d8" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors"
@@ -60,7 +60,7 @@ const Hero = ({ darkMode }: HeroProps) => {
         </div>
         <div className="flex justify-center space-x-4">
           <a 
-            href="https://drive.google.com/file/d/1tzhqjbZQ3I-YlljRRkfU8KNc-c-oDakM/view?usp=sharing" 
+            href="https://www.overleaf.com/read/vqqjrqdzfmjr#ede9d8" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white text-purple-700 hover:bg-gray-100 px-6 py-3 rounded-full font-medium transition-colors"
