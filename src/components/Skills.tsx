@@ -11,7 +11,7 @@ const Skills = () => {
     {
       title: "Programming Languages",
       icon: <Code2 size={24} className="text-indigo-600 dark:text-indigo-400" />,
-      skills: ["C++", "Java", "Python", "JavaScript", "R", "SQL"]
+      skills: ["C++", "Java", "Python", "JavaScript", "R", "SQL", "PHP"]
     },
     {
       title: "AI/ML Frameworks",
@@ -21,7 +21,7 @@ const Skills = () => {
     {
       title: "Web Development",
       icon: <Globe size={24} className="text-indigo-600 dark:text-indigo-400" />,
-      skills: ["HTML5", "CSS", "JavaScript", "React.js", "Angular"]
+      skills: ["HTML5", "CSS", "JavaScript", ,"PHP", "React.js", "Angular", "Tailwind CSS"]
     },
     {
       title: "Data Visualization",
