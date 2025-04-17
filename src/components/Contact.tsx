@@ -66,7 +66,7 @@ const Contact = () => {
                   <div>
                     <p className="font-medium text-gray-900 dark:text-white">GitHub</p>
                     <a 
-                      href="https://github.com" 
+                      href="https://github.com/jaswanth-komatineni" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
