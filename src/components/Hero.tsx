@@ -25,7 +25,7 @@ const Hero = ({ darkMode }: HeroProps) => {
         </p>
         <div className="flex justify-center space-x-6 mb-12">
           <a 
-            href="https://github.com" 
+            href="https://github.com/jaswanth-komatineni" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors"
