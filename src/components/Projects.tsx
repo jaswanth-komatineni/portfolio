@@ -33,7 +33,7 @@ const Projects = () => {
       description: "Developed a regression model using Scikit-Learn to predict house prices based on key features. Built and deployed an interactive Streamlit app on a local machine for real-time predictions and analysis.",
       technologies: ["Machine Learning", "Streamlit", "Python", "Scikit-Learn", "Data Analysis"],
       image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
-      githubLink: "#",
+      githubLink: "https://github.com/jaswanth-komatineni/house_price_prediction",
       liveLink: "#"
     }
   ];
