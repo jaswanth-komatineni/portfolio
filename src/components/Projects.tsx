@@ -24,7 +24,7 @@ const Projects = () => {
       description: "Built a bill calculation and receipt generation system with PDF export, enabling users to download invoices. Integrated a mini calculator for quick total verification, improving user experience with instant feedback.",
       technologies: ["Python", "Tkinter", "Visual Studio Code", "PDF Generation", "Idle"],
       image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
-      githubLink: "#",
+      githubLink: "https://github.com/jaswanth-komatineni/Restaurant-Billing-System",
       liveLink: "#"
     },
     
