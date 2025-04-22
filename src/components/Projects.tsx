@@ -17,7 +17,7 @@ const Projects = () => {
       technologies: ["PHP", "MySQL", "HTML", "CSS", "Tailwind"],
       image: "https://media.istockphoto.com/id/1428709516/photo/shopping-online-woman-hand-online-shopping-on-laptop-computer-with-virtual-graphic-icon.jpg?s=1024x1024&w=is&k=20&c=N5Fw7BZfKcYJMH9camA7rQ3q--7Ev7pKlQYEB_gPfo8=",
       githubLink: "https://github.com/jaswanth-komatineni/eCommerce-website",
-      liveLink: "http://jaswanth.infinityfreeapp.com"
+      liveLink: "https://jaswanth.infinityfreeapp.com"
     },
     {
       title: "Online Restaurant Billing System",
