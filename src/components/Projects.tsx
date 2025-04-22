@@ -8,7 +8,7 @@ const Projects = () => {
       description: "Built a system for detecting and recognizing license plates in images and videos, utilizing image pre-processing (grayscale conversion, noise removal, morphological operations) and edge detection (Sobel, Canny). Integrated Optical Character Recognition (OCR) and neural networks to ensure accurate character extraction and optimize real-time performance.",
       technologies: ["Python", "OpenCV", "Tesseract OCR", "Neural Networks", "Image Processing"],
       image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
-      githubLink: "#",
+      githubLink: "https://github.com/jaswanth-komatineni/Automatic-license-plate-recognition",
       liveLink: "#"
     },
     {
