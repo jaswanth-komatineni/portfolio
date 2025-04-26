@@ -20,6 +20,14 @@ const Projects = () => {
       liveLink: "https://jaswanth.infinityfreeapp.com"
     },
     {
+      title: "Personal Productivity App",
+      description: "A modern single-user offline productivity web app with Tasks, Calendar, Dashboard, Voice Commands, Local Storage, and PWA features. Built for efficient task management without login or internet!",
+      technologies: ["React.js", "Tailwind CSS", "FullCalendar.js", "Chart.js", "LocalStorage API", "Web Speech API (Voice Assistant)"],
+      image: "https://balancethroughsimplicity.com/wp-content/uploads/2020/04/How-to-write-a-To-Do-list-to-get-things-done-BLOG-1-768x538.jpg",
+      githubLink: "https://github.com/jaswanth-komatineni/personal-productivity-app",
+      liveLink: "https://personal-productivity-app.netlify.app/"
+    },
+    {
       title: "Online Restaurant Billing System",
       description: "Built a bill calculation and receipt generation system with PDF export, enabling users to download invoices. Integrated a mini calculator for quick total verification, improving user experience with instant feedback.",
       technologies: ["Python", "Tkinter", "Visual Studio Code", "PDF Generation", "Idle"],
