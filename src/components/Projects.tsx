@@ -9,7 +9,7 @@ const Projects = () => {
       technologies: ["Python", "OpenCV", "Tesseract OCR", "Neural Networks", "Image Processing"],
       image: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
       githubLink: "https://github.com/jaswanth-komatineni/Automatic-license-plate-recognition",
-      liveLink: "#"
+      //liveLink: "#"
     },
     {
       title: "eCommerce Web Application (Full Stack)",
@@ -33,7 +33,7 @@ const Projects = () => {
       technologies: ["Python", "Tkinter", "Visual Studio Code", "PDF Generation", "Idle"],
       image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
       githubLink: "https://github.com/jaswanth-komatineni/Restaurant-Billing-System",
-      liveLink: "#"
+      //liveLink: "#"
     },
     
     {
@@ -42,7 +42,7 @@ const Projects = () => {
       technologies: ["Machine Learning", "Streamlit", "Python", "Scikit-Learn", "Data Analysis"],
       image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
       githubLink: "https://github.com/jaswanth-komatineni/house_price_prediction",
-      liveLink: "#"
+      //liveLink: "#"
     }
   ];
 
