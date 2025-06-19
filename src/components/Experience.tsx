@@ -20,7 +20,7 @@ const Experience = () => {
               {/* Company details on the left, Logo on the right */}
               <div className="flex-1 md:text-right md:pr-10 mb-4 md:mb-0">
                 <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md transition-colors duration-300">
-                  <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Graduate Engineer Trainee</h3>
+                  <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Graduate Engineer</h3>
                   <p className="text-indigo-600 dark:text-indigo-400 mb-2">Reliance Jio Infocomm Limited</p>
                   <p className="text-gray-500 dark:text-gray-400 mb-4">May 2023 - Jan 2024</p>
                   <ul className="text-gray-700 dark:text-gray-300 list-disc list-inside space-y-2">
