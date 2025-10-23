@@ -81,7 +81,7 @@ const Contact = () => {
                   <div>
                     <p className="font-medium text-gray-900 dark:text-white">Resume</p>
                     <a 
-                      href="https://drive.google.com/file/d/1bCMJmTuVUNaTx3tigNxGtixdhbj-5gwq/view?usp=sharing" 
+                      href="https://drive.google.com/file/d/1JAnzsZoZ2oGJ0_Ucw56uyqQGuI-DApeB/view?usp=sharing" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
