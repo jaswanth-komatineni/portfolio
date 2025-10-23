@@ -59,7 +59,7 @@ const Hero = ({ darkMode }: HeroProps) => {
         </div>
         <div className="flex justify-center space-x-4 mt-12">
           <a 
-            href="https://drive.google.com/file/d/1bCMJmTuVUNaTx3tigNxGtixdhbj-5gwq/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1JAnzsZoZ2oGJ0_Ucw56uyqQGuI-DApeB/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white text-purple-700 hover:bg-gray-100 px-6 py-3 rounded-full font-medium transition-colors"
