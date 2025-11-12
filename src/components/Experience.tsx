@@ -20,6 +20,7 @@ const Experience = () => {
 
           {/* Experience items */}
           <div className="space-y-12">
+            
             {/* Copani LLC */}
             <div className="relative flex flex-col md:flex-row items-center">
               {/* Logo on the left */}
@@ -35,7 +36,7 @@ const Experience = () => {
               <div className="hidden md:block z-10 bg-indigo-600 dark:bg-indigo-400 rounded-full w-6 h-6 border-4 border-white dark:border-gray-900"></div>
 
               {/* Company details */}
-              <div className="flex-1 md:text-left md:pl-10">
+              <div className="flex-1 md:text-left md:pl-10 md:ml-28">
                 <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md transition-colors duration-300">
                   <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">
                     Software Engineer (AI Development)
@@ -130,7 +131,7 @@ const Experience = () => {
               <div className="hidden md:block z-10 bg-indigo-600 dark:bg-indigo-400 rounded-full w-6 h-6 border-4 border-white dark:border-gray-900"></div>
 
               {/* Company details */}
-              <div className="flex-1 md:text-left md:pl-10">
+              <div className="flex-1 md:text-left md:pl-10 md:ml-28">
                 <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md transition-colors duration-300">
                   <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">
                     Software Development Intern
@@ -164,6 +165,7 @@ const Experience = () => {
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
