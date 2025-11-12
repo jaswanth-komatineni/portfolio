@@ -26,7 +26,7 @@ const Experience = () => {
                   <img
                     src="https://media.licdn.com/dms/image/v2/D4E0BAQGnSKRaa3sYHw/company-logo_200_200/B4EZUuqItKH0AI-/0/1740244552935?e=2147483647&v=beta&t=tkKxkwEkzybqTC7TDjuf-A_ZvG2xx0Uh7BihbFz7-dg"
                     alt="Copani LLC Logo"
-                    className="h-16"
+                    className="h-20"
                   />
                 </div>
               </div>
