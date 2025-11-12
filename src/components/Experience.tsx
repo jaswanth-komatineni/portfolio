@@ -81,7 +81,7 @@ const Experience = () => {
               {/* Logo on the left, Company details on the right */}
               <div className="flex-1 md:text-left md:pl-10 mb-4 md:mb-0">
                 {/* Logo beside the line */}
-                <div className="hidden md:block absolute left-1/2 transform -translate-x-24 z-10"style={{ top: '175px' }}>
+                <div className="hidden md:block absolute left-1/2 transform -translate-x-24 z-10"style={{ top: '145px' }}>
                   <img
                     src="https://images.yourstory.com/cs/images/companies/HighRadiusEmblem-1628238775387.jpg?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=256&q=75"
                     alt="High Radius Logo"
