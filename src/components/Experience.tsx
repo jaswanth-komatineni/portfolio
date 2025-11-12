@@ -22,7 +22,7 @@ const Experience = () => {
               {/* Logo on the left, Company details on the right */}
               <div className="flex-1 md:text-left md:pl-10 mb-4 md:mb-0">
                 {/* Logo beside the line */}
-                <div className="hidden md:block absolute left-1/2 transform -translate-x-24 z-10"style={{ top: '145px' }}>
+                <div className="hidden md:block absolute left-1/2 transform -translate-x-24 z-10"style={{ top: '165px' }}>
                   <img
                     src="https://media.licdn.com/dms/image/v2/D4E0BAQGnSKRaa3sYHw/company-logo_200_200/B4EZUuqItKH0AI-/0/1740244552935?e=2147483647&v=beta&t=tkKxkwEkzybqTC7TDjuf-A_ZvG2xx0Uh7BihbFz7-dg"
                     alt="Copani LLC Logo"
