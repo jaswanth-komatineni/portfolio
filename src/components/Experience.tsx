@@ -67,8 +67,9 @@ const Experience = () => {
                   <p className="text-indigo-600 dark:text-indigo-400 mb-2">Reliance Jio Infocomm Limited</p>
                   <p className="text-gray-500 dark:text-gray-400 mb-4">May 2023 - Jan 2024</p>
                   <ul className="text-gray-700 dark:text-gray-300 list-disc list-inside space-y-2">
-                    <li>Spearheaded troubleshooting and performance optimization of telecommunication networks, identifying key areas for improvement, which led to a 15% increase in system efficiency.</li>
-                    <li>Collaborated with cross-functional teams to support the design and deployment of new network features, ensuring seamless integration and minimal downtime across multiple regions.</li>
+                    <li>Collaborated with cross-functional teams to analyze telecom datasets using Python and SQL, driving a 15% improvement in network efficiency and resolving 100+ critical incidents through root cause analysis and network diagnostics with Wireshark.</li>
+                    <li>Contributed to regression testing for 5+ regional rollouts involving 20+ features and supported CI/CD pipeline automation with Jenkins and Git, reducing deployment time by 30% and maintaining 99.9% system uptime for 10M+ users.</li>
+                    <li>Maintained 50+ test plans with strong attention to detail and organization, ensuring quick resolution of 120+ bugs in a fast paced environment, monitored QA metrics using JIRA, accelerating incident response time by 25% and boosting product quality by 15%.</li>
                   </ul>
                 </div>
               </div>
