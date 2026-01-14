@@ -18,7 +18,7 @@ const Hero = ({ darkMode }: HeroProps) => {
 
       <div className="absolute inset-0 bg-black opacity-10"></div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 className="text-5xl md:text-6xl font-bold mb-4">Jaswanth Komatineni</h1>
+        <h1 className="text-5xl md:text-6xl font-bold mb-4">Jaswanth K</h1>
         <h2 className="text-2xl md:text-3xl font-light mb-8">Computer Science Graduate Student</h2>
         <p className="text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
           Transforming challenges into opportunities through technology.
